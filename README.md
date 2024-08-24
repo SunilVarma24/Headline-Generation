@@ -22,4 +22,4 @@ To run this project, you need Python 3.x installed along with the following libr
 
 You can install the required packages using pip:
 ```bash
-pip install pandas numpy tensorflow keras transformers nltk rouge meteor-score
+pip install pandas numpy torch transformers nltk rouge meteor-score
